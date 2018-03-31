@@ -1,0 +1,7 @@
+Inheritance miras almaq demekdi 
+class- lara aid olur meselen human classinin mueyyen methodlari var man classi yaradaq ve mueyyen methdolar yaradaq 
+man hem de human oldugu uchun humanin methodlarina da malik olmalidi ve bu zaman inheritance -den istifade olunur
+hemcinin woman class i yaratsaq onun uchun de human class-indan miras almaliyiq
+
+bir class bir neche classa miras vere biler amma ozu yalniz bir class-dan miras ala biler
+inheritance daha az kod olmasi uchun chox vacibdi bele ki miras alan class miras veren classin butun methodlarina sahib olur ve bu kod sayini azaldir

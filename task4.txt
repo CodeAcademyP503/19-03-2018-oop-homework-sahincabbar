@@ -1,0 +1,20 @@
+Equals(),GetHashCode(),GetType(),ToString()
+bu methodlar constructorun methodlaridi
+constructor class qelibinden obyekt yarandaa avtomatik olaraq ishe dushur ve motor funksiyasini dashiyir 
+ctor yaranan anda obyekt yuxaridaki 4 dene methoda malik olur
+Equals() - gosterilen obyekti movcud obyekte beraber olub olmadigini gosterir 
+GetHashCode() - varsayilan hash funksiyasina xidemt edir
+ToString() -  metodu yazilarla ishlemeye komek edir
+
+GetType() - cari numunenin novunu alir
+
+
+
+constructor obyekt yaranan anda ishe dushur ve eslinde bir methoddu ama yalniz bir funksiyani - obyekt yaratmaq funksiyasini yerie yetirdiyi uchun void -siz ishlenir
+
+biz class daxilinde constructor cagirmasaq bele o arxa fonda default consturctor olaraq avtomatik ishe dushur ve obyektir yaradir ve bashlanguc olaraq dord dene funskiyasisi var
+GetHashCode() , ToString() , GetType() ve Equals()
+
+
+
+

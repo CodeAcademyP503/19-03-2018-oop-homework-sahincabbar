@@ -1,0 +1,4 @@
+ String class - di
+string ise keyword
+
+string keywordu String classina aiddi ve yazi tipli data ile ishlemeye imkan yaradir.

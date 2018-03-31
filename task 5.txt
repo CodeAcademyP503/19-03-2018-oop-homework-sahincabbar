@@ -1,0 +1,13 @@
+public ve static
+
+public bize imkan verir ki yaratdigimiz poperty ve ya metgodu kod blokundan kenarda da cagiraq istifade ede bilek
+
+staticde ise hemin kod blokunda olan propertylerin vakue larini deyishmek olmur
+ve static methodu cagirmaq uchun biz yaratdigimiz obyektin sonuna noqte qoyub cagira bilerik
+staticde olan butun kodlar sabit qalir
+obyektin static methodunu cagiranda biz propertynin sabit qiymetini alacayiq
+
+static methodu daxilinde olan propertyler hemin kod blokundaan kenarda istifade oluna bilmez
+
+
+

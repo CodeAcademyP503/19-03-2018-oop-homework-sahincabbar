@@ -1,0 +1,26 @@
+this methodu class in daxilinde  2 dene eyni adli property  yarananda onlari elaqelendirmek uchundu
+this methodundan parametrli methodlarda istifade oluna biler
+parametrli methodun daxilinde yaratdigimiz propertyler public tipli property ler le eyni adda olanda parametrli metoddaki property ile public propertyni elaqelendirmke uchun istifade ederik
+numune
+
+
+class Human{
+
+
+public string name;
+public string surname;
+public int num;
+
+public void Print (string name,string surname){
+
+
+this.name = name;
+this.surname = surname;
+this.num = num; 
+
+
+}
+
+}
+
+this methodu classa aiddir obyekte yox .

@@ -1,0 +1,7 @@
+c:\users\acer\source\repos\task 6\task 6\bin\Debug\task 6.exe.config
+c:\users\acer\source\repos\task 6\task 6\bin\Debug\task 6.exe
+c:\users\acer\source\repos\task 6\task 6\bin\Debug\task 6.pdb
+c:\users\acer\source\repos\task 6\task 6\obj\Debug\task 6.csprojResolveAssemblyReference.cache
+c:\users\acer\source\repos\task 6\task 6\obj\Debug\task 6.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\task 6\task 6\obj\Debug\task 6.exe
+c:\users\acer\source\repos\task 6\task 6\obj\Debug\task 6.pdb

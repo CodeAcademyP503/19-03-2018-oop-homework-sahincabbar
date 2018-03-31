@@ -1,0 +1,14 @@
+method overloading
+
+
+methodoverloading oop- de sixliqla istifade olunur
+menasi methodun ashiri yuklenmesi demekdi
+
+biz methdolarla ishleyene zaman onlarin tipini mueyyen edende adeten yalnizca bit tipden datalari qebul edirdi
+method overloading de ise biz method yaradanda ( ) bu motereizlerin ichinde hansi tip data lazim oldugunu daxil edirik'
+
+meselen :  public void Test(int a, string b, float c)
+
+bu numunede biz methodoverloading etdik bele ki yaratdigimiz method bizden int string ve float tipli datalarla ishlemeyemizi teleb edecek 
+
+

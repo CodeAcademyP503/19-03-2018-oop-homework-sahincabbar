@@ -1,0 +1,13 @@
+variable ve property 
+property set ve get accessor-lari var
+variable - in yoxdu
+property bir nov method kimidi onlar data field kimi ishlenirler
+get accesooru property nin value - sini return eliyir
+get deyer alir set ise deyer verir 
+property adeten public olur ve boyuk herfle bashlayir
+
+benzer cehetler odu ki her ikisi data field vezifesini icra edir  ichine deyer verib saxlamaq olur
+deyishen funksiyasini yerine yetirirler
+bildiyimiz kimi variable teyin edende kod blokundan kenarda ondaqn istifade etmek olmurdu
+property ise kod blokundan kenarda da istifade oluna biler public mehz bunu yerine yetirir
+

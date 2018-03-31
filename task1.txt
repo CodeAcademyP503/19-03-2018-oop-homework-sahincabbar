@@ -1,0 +1,78 @@
+continue 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp40
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // continue aid numune
+
+            for (int i = 0; i <= 15; i++)
+            {
+               
+                if (i==10)
+                {
+                    continue;
+                }
+                Console.WriteLine(i);
+            }
+
+        }
+    }
+}
+------------------------------------------------------------------------------------------------------------------------------
+
+
+break
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp40
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // break aid numune
+
+            for (int i = 0; i <= 15; i++)
+            {
+               
+                if (i==10)
+                {
+                    break;
+                }
+                Console.WriteLine(i);
+            }
+
+        }
+    }
+}
+
+
+continue keywordunden istifade eden zaman for dongusu if shertine girende hemin shertin ustunden kechir ve proqram davam edir.
+break keywordunden istifade eden zaman for dongusu if shertine girende hemin shertden sonraki emeliyyat davam etmir ve proqram sonlanir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
